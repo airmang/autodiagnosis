@@ -12,8 +12,14 @@
 ## 2. 크롬드라이버 설치
 현재 사용하고 있는 크롬 브라우저의 버전을 확인하고
 크롬 드라이버 홈페이지에 들어가서
-[Title](link)
-[크롬드라이버설치페이지](https://chromedriver.chromium.org/downloads, "chromedriver page")
+
+[크롬드라이버설치페이지](https://chromedriver.chromium.org/downloads)
 
 
 ![image](https://user-images.githubusercontent.com/38392618/172553246-217c6e9a-404a-4c45-b92e-cc1496fafc56.png)
+
+크롬드라이버를 설치 하고 프로젝트를 저장할 폴더에 압축해제 하여 저장한다.
+
+## 3. 셀레니움과 크롬드라이버 작동 확인
+
+  

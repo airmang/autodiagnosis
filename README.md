@@ -4,3 +4,16 @@
 셀레니움을 이용하여 자가진단 자동화 프로그램을 만들어보자.
 
 ## 1. 파이썬 설치 및 셀레니움 설치
+
+  pip install selenium
+
+해당 명령어를 입력하여 셀레니움 패키지를 설치해준다.
+
+## 2. 크롬드라이버 설치
+현재 사용하고 있는 크롬 브라우저의 버전을 확인하고
+크롬 드라이버 홈페이지에 들어가서
+[Title](link)
+[크롬드라이버설치페이지](https://chromedriver.chromium.org/downloads, "chromedriver page")
+
+
+![image](https://user-images.githubusercontent.com/38392618/172553246-217c6e9a-404a-4c45-b92e-cc1496fafc56.png)

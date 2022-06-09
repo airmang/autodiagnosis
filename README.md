@@ -22,4 +22,13 @@
 
 ## 3. 셀레니움과 크롬드라이버 작동 확인
 
-  
+```python
+import selenium
+from selenium import webdriver
+
+driver = webdriver.Chrome()
+url_path = 'https://hcs.eduro.go.kr/#/loginWithUserInfo'
+driver.get(url_path)
+driver.implicitly_wait(5)
+driver.maximize_window()
+```
